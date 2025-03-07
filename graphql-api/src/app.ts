@@ -1,4 +1,4 @@
-import compression from 'compression' // comment
+import compression from 'compression'
 import cors from 'cors'
 import express from 'express'
 import onFinished from 'on-finished'
